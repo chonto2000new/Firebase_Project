@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "529921200989",
+    "project_id": "store-6a63b",
+    "storage_bucket": "store-6a63b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529921200989:android:8a86525529b0ed2b184eb4",
+        "android_client_info": {
+          "package_name": "com.mycompany.shopgames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529921200989-k1b4s6bvefmmr2t22po6e4ppaaggbes5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.shopgames",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "529921200989-7s18mg6cvbj729hcrps4jro8s2chvfbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUfOWnpbHxAPMzI2eHZG4mTaZY66zH--Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529921200989-7s18mg6cvbj729hcrps4jro8s2chvfbg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "529921200989-n6k4o8cfdidlcnh91km2ia1ed9f8oh13.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.shopgames"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
